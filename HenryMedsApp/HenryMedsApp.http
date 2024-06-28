@@ -1,0 +1,6 @@
+@HenryMedsApp_HostAddress = http://localhost:5244
+
+GET {{HenryMedsApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

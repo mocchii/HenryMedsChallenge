@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HenryMedsApp", "HenryMedsApp\HenryMedsApp.csproj", "{692E9015-C930-4203-8AE9-BAD811A90747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "HenryMedsTest\UnitTests.csproj", "{AB9A717E-8946-4FF8-B1AC-4017B3BBE464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692E9015-C930-4203-8AE9-BAD811A90747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692E9015-C930-4203-8AE9-BAD811A90747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692E9015-C930-4203-8AE9-BAD811A90747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692E9015-C930-4203-8AE9-BAD811A90747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9A717E-8946-4FF8-B1AC-4017B3BBE464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9A717E-8946-4FF8-B1AC-4017B3BBE464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9A717E-8946-4FF8-B1AC-4017B3BBE464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9A717E-8946-4FF8-B1AC-4017B3BBE464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8987BE94-00F2-4BF2-ADFB-C1691F277578}
+	EndGlobalSection
+EndGlobal
